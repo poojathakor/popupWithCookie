@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "name": "Adam Carter",
+      "work": "Unilogic",
+      "email": "ketty@unilogic.com",
+      "dob": "1978",
+      "address": "83 Warner Street",
+      "city": "Boston",
+      "optedin": true
+    },
+    {
+      "id": 1,
+      "name": "Leanne Brier",
+      "work": "Connic",
+      "email": "misha@connic.org",
+      "dob": "13/05/1987",
+      "address": "9 Coleman Avenue",
+      "city": "Toronto",
+      "optedin": false
+    },
+    {
+      "id": 2,
+      "name": "Adam Carter",
+      "work": "Unilogic",
+      "email": "krina@unilogic.com",
+      "dob": "1978",
+      "address": "83 Warner Street",
+      "city": "Boston",
+      "optedin": true
+    },
+    {
+      "id": 3,
+      "name": "Leanne Brier",
+      "work": "Connic",
+      "email": "rita@connic.org",
+      "dob": "13/05/1987",
+      "address": "9 Coleman Avenue",
+      "city": "Toronto",
+      "optedin": false
+    },
+    {
+      "id": 4,
+      "name": "Adam Carter",
+      "work": "Unilogic",
+      "email": "riya@unilogic.com",
+      "dob": "1978",
+      "address": "83 Warner Street",
+      "city": "Boston",
+      "optedin": true
+    },
+    {
+      "id": 5,
+      "name": "Leanne Brier",
+      "work": "Connic",
+      "email": "pooja@connic.org",
+      "dob": "13/05/1987",
+      "address": "9 Coleman Avenue",
+      "city": "Toronto",
+      "optedin": false
+    }
+  ]
+}
