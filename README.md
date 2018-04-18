@@ -4,5 +4,5 @@
 
 ![Alt Text](https://github.com/poojathakor/popupWithCookie/blob/master/repoimg/1.png)
 ![Alt Text](https://github.com/poojathakor/popupWithCookie/blob/master/repoimg/2.PNG)
-![Alt Text](https://github.com/poojathakor/popupWithCookie/blob/master/repoimg/3.PNG)
+![Alt Text](https://github.com/poojathakor/popupWithCookie/blob/master/repoimg/img3.PNG)
 ![Alt Text](https://github.com/poojathakor/popupWithCookie/blob/master/repoimg/4.PNG)
